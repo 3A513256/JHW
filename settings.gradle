@@ -1,0 +1,2 @@
+include ':app', ':JHW1', ':JHW2', ':JHW3', ':JHW4', ':JHW5', ':JHW6', ':JHW7', ':JHW8', ':JHW9', ':JHW10', ':JHW11', ':JHW13', ':JHW14', ':JHW15', ':JHW16'
+rootProject.name='JHW'
